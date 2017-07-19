@@ -1,6 +1,6 @@
 # Install and run
 
-    $ git checkout https://github.com/pioz/electron-prebuilt-compile-issue.git
+    $ git clone https://github.com/pioz/electron-prebuilt-compile-issue.git
     $ cd electron-prebuilt-compile-issue
     $ npm install
     $ npm start
